@@ -1,4 +1,5 @@
-
+## Vshift
+a voice to tts tool for linux
 ## Install
 
 Use Python 3.13 or 3.12 for the Whisper environment. The included installer prefers 3.13.
